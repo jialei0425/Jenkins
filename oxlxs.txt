@@ -1,0 +1,6 @@
+name	cxk
+age	22
+tail	182
+xo	nv
+jj	18
+like	sing  jump  rap  basgetball
